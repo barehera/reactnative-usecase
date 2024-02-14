@@ -29,10 +29,16 @@ The architecture of the code you write should be clean and readable.
 ## Optional:
 
 - APK build output
+- Vercel deploy (if Next.js is implemented)
 
-## Plus:
+## Plus: Next.js and TailwindCSS Implementation with Keyboard Navigation
 
-Write the same use case with Next.js and TailwindCSS. Add an extra feature of keyboard navigation support. Arrow keys and tab should be used to perform all operations, navigate selected items in the input field or rows in the result list, and perform deletion/selection operations.
+Implement the same use case using **Next.js** and **TailwindCSS**. 
+
+### Extra Feature: Keyboard Navigation Support
+
+- **Navigation**: Use arrow keys and tab to navigate through selected items in the input field or rows in the result list.
+- **Operations**: Perform deletion/selection operations using the keyboard.
 
 ## Please note:
 
