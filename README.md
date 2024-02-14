@@ -31,7 +31,7 @@ The architecture of the code you write should be clean and readable.
 - APK build output
 - Vercel deploy (if Next.js is implemented)
 
-## Plus: Next.js and TailwindCSS Implementation with Keyboard Navigation
+## Optional: Next.js and TailwindCSS Implementation with Keyboard Navigation
 
 Implement the same use case using **Next.js** and **TailwindCSS**. 
 
