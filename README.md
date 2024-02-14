@@ -21,6 +21,7 @@ Example design: assets/multi-select.png
 - Loading state indication
 - Exception handling and error states displayed in the interface
 - TailwindCSS is not required but is a plus
+- APK build output
 
 ## Most importantly:
 
@@ -28,7 +29,7 @@ The architecture of the code you write should be clean and readable.
 
 ## Optional:
 
-- APK build output
+- IPA build output
 - Vercel deploy (if Next.js is implemented)
 
 ## Optional: Next.js and TailwindCSS Implementation with Keyboard Navigation
