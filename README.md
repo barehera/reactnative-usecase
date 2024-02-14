@@ -20,6 +20,7 @@ Example design: assets/multi-select.png
 - Adding and removing selected results to and from the input field
 - Loading state indication
 - Exception handling and error states displayed in the interface
+- TailwindCSS is not required but is a plus
 
 ## Most importantly:
 
@@ -28,6 +29,10 @@ The architecture of the code you write should be clean and readable.
 ## Optional:
 
 - APK build output
+
+## Plus:
+
+Write the same use case with Next.js and TailwindCSS. Add an extra feature of keyboard navigation support. Arrow keys and tab should be used to perform all operations, navigate selected items in the input field or rows in the result list, and perform deletion/selection operations.
 
 ## Please note:
 
