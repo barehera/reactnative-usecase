@@ -12,7 +12,7 @@ Example design: assets/multi-select.png
 
 ## Requirements:
 
-- React Native with Typescript
+- Expo and Expo Router with Typescript
 - Multi-select implementation according to the design
 - Query entered in the input field is queried with the API and listed in the popup content
 - Each character in the listed results should show the character image, name, and number of episodes they played in
@@ -20,7 +20,7 @@ Example design: assets/multi-select.png
 - Adding and removing selected results to and from the input field
 - Loading state indication
 - Exception handling and error states displayed in the interface
-- TailwindCSS is not required but is a plus
+- TailwindCSS
 - APK build output
 
 ## Most importantly:
@@ -30,16 +30,6 @@ The architecture of the code you write should be clean and readable.
 ## Optional:
 
 - IPA build output
-- Vercel deploy (if Next.js is implemented)
-
-## Optional: Next.js and TailwindCSS Implementation with Keyboard Navigation
-
-Implement the same use case using **Next.js** and **TailwindCSS**. 
-
-### Extra Feature: Keyboard Navigation Support
-
-- **Navigation**: Use arrow keys and tab to navigate through selected items in the input field or rows in the result list.
-- **Operations**: Perform deletion/selection operations using the keyboard.
 
 ## Please note:
 
