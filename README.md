@@ -20,7 +20,6 @@ Example design: assets/multi-select.png
 - Adding and removing selected results to and from the input field
 - Loading state indication
 - Exception handling and error states displayed in the interface
-- TailwindCSS
 - APK build output
 
 ## Most importantly:
@@ -30,6 +29,12 @@ The architecture of the code you write should be clean and readable.
 ## Optional:
 
 - IPA build output
+
+## Technologies:
+
+- NativeWind (Tailwind CSS)
+- TanStack Query v5
+- Zustand
 
 ## Please note:
 
