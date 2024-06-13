@@ -32,9 +32,11 @@ The architecture of the code you write should be clean and readable.
 
 ## Technologies:
 
-- NativeWind (Tailwind CSS)
-- TanStack Query v5
-- Zustand
+Please keep in mind that this section is crucial for reviewing your code, so ensure you use all the technologies listed below:
+
+- **NativeWind (Tailwind CSS)**
+- **TanStack Query v5**
+- **Zustand**
 
 ## Please note:
 
